@@ -1,3 +1,4 @@
+
 from collections import *
 n=int(input())
 a=[]
@@ -20,4 +21,5 @@ for i in range(len(a)):
                 count+=1
     print(count,end=" ")
     count=1
+
 

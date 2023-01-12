@@ -1,4 +1,5 @@
 
+
 from collections import * 
 n=int(input())
 a=deque()
@@ -18,4 +19,3 @@ while len(a)!=1:
         i+=1
         print(a)
 
-print(a[0])
